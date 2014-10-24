@@ -1,4 +1,5 @@
 conwaysgameoflife
 =================
 
-Conways Game of Life written in Ruby
+A simple Ruby version of Conways Game of Life
+
